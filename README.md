@@ -6,8 +6,8 @@
 ![ble_tag](https://github.com/waltervl/Domoticz-Alarm/blob/master/images/Entry%20Delay.png)
 ![ble_tag](https://github.com/waltervl/Domoticz-Alarm/blob/master/images/Exit%20Delay.png)
 ![ble_tag](https://github.com/waltervl/Domoticz-Alarm/blob/master/images/Open%20Sections%20Timeout.png)
-![ble_tag](https://github.com/waltervl/Domoticz-Alarm/blob/master/images)Open%20Sections%20Zone%200.png)
-![ble_tag](https://github.com/waltervl/Domoticz-Alarm/blob/master/images)/Tripped%20Devices%20Zone%200.png)
+![ble_tag](https://github.com/waltervl/Domoticz-Alarm/blob/master/images/Open%20Sections%20Zone%200.png)
+![ble_tag](https://github.com/waltervl/Domoticz-Alarm/blob/master/images/Tripped%20Devices%20Zone%200.png)
 
 
 ## Versions
