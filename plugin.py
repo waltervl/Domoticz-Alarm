@@ -382,8 +382,8 @@ class BasePlugin:
         
     def getsecpasspword(self):
         strName = "getsecpasspword - "
-        APIjson = DomoticzAPI("type=settings")
-        #type=command&param=getlightswitches
+        APIjson = DomoticzAPI("type=command&param=getsettings")
+        #type=command&param=getsettings
         try:
             nodes = APIjson
         except:
